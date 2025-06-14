@@ -1,6 +1,4 @@
 # Birth & Death Certificate Generator
-# Patient Outcome Prediction Project
-## 📁 Folder Structure
 
 ## Overview
 This project generates digitally verifiable Birth and Death Certificates using structured user input and secure PDF generation.
