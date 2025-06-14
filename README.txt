@@ -18,7 +18,7 @@ This project generates digitally verifiable Birth and Death Certificates using s
 Run:
 pip install fpdf2 qrcode[pil]
 
-##Steps to Run
+## Steps to Run
 
 1. Run the script: python generate_certificate.py
 2. Choose between:
@@ -35,7 +35,7 @@ pip install fpdf2 qrcode[pil]
 - /static/bg_images → Background Image for PDF.
 - static/certificates_log.csv → Log of all issued certificates.
 
-##CSV Logging Details
+## CSV Logging Details
 Each time a certificate is generated, the following details are recorded in certificates_log.csv:
 
 FIELD                         |           DESCRIPTION
